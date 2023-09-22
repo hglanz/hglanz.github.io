@@ -1,9 +1,7 @@
 ---
-title: "About"
+title: "Hunter Glanz"
 ---
 
-About this site
+Welcome!
 
-```{r}
-1 + 1
-```
+My name is Hunter Glanz and I am a data science faculty member of the Statistics Department at California Polytechnic State University (Cal Poly) in San Luis Obispo, CA.

@@ -4,8 +4,10 @@ title: "Hunter Glanz"
 
 This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+-   [About me!](about.qmd)
 
-```{r}
-1 + 1
-```
+-   [Courses I am teaching or have taught](courses.qmd)
+
+-   [Current and past projects](projects.qmd)
+
+-   [Professional and personal interests](interests.qmd)
