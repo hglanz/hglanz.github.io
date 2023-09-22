@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Courses",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Hunter Glanz",
@@ -12,5 +26,12 @@
     "title": "Hunter Glanz",
     "section": "",
     "text": "Welcome!\nMy name is Hunter Glanz and I am a data science faculty member of the Statistics Department at California Polytechnic State University (Cal Poly) in San Luis Obispo, CA."
+  },
+  {
+    "objectID": "interests.html",
+    "href": "interests.html",
+    "title": "Interests",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
